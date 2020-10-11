@@ -17,7 +17,7 @@ stripe.setApiVersion(config.stripe.apiVersion);
 const products = [
   {
     id: 'increment',
-    name: 'Servizi',
+    name: 'Servizi Web',
     price: 4599,
     attributes: {issue: 'Servizi Avalon Instruments'},
   }
