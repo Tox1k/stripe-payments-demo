@@ -17,22 +17,23 @@ stripe.setApiVersion(config.stripe.apiVersion);
 const products = [
   {
     id: 'increment',
-    name: 'Increment Magazine',
-    price: 399,
-    attributes: {issue: 'Issue #3 “Development”'},
-  },
-  {
-    id: 'shirt',
-    name: 'Stripe Shirt',
-    price: 999,
-    attributes: {size: 'Small Standard', gender: 'Woman'},
-  },
-  {
-    id: 'pins',
-    name: 'Stripe Pins',
-    price: 799,
-    attributes: {set: 'Collector Set'},
-  },
+    name: 'Servizi',
+    price: 4599,
+    attributes: {issue: 'Servizi Avalon Instruments'},
+  }
+  // ,
+  // {
+  //   id: 'shirt',
+  //   name: 'Stripe Shirt',
+  //   price: 999,
+  //   attributes: {size: 'Small Standard', gender: 'Woman'},
+  // },
+  // {
+  //   id: 'pins',
+  //   name: 'Stripe Pins',
+  //   price: 799,
+  //   attributes: {set: 'Collector Set'},
+  // },
 ];
 
 // Creates a collection of Stripe Products and SKUs to use in your storefront
