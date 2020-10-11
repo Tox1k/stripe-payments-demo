@@ -2,8 +2,8 @@
   "name": "Stripe Payments Demo",
   "description":
     "Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, Google Pay, and the Sources API.",
-  "repository": "https://github.com/stripe/stripe-payments-demo",
-  "logo": "https://stripe-payments-demo.appspot.com/images/logo.png",
+  "repository": "https://github.com/Tox1k/stripe-payments-demo",
+  "logo": "https://www.avalon-instruments.com/images/sampledata/logo-avalon_ok-2.png",
   "keywords": [
     "stripe",
     "stripe-elements",
